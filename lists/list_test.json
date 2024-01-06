@@ -1,11 +1,18 @@
 {
+    "template": {
+        "className": "",
+        "properties": {}
+    },
     "useSession": "false",
     "showPageSizeSelector": "true",
     "rowActions": [],
     "columns": [{
-        "name": "test",
+        "filterable": true,
+        "hidden": "false",
+        "name": "field1",
         "id": "column_0",
-        "label": "test"
+        "label": "field1",
+        "sortable": "false"
     }],
     "pageSize": 0,
     "orderBy": "",
