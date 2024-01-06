@@ -3,9 +3,9 @@
     "showPageSizeSelector": "true",
     "rowActions": [],
     "columns": [{
-        "name": "field1",
+        "name": "test",
         "id": "column_0",
-        "label": "field1"
+        "label": "test"
     }],
     "pageSize": 0,
     "orderBy": "",

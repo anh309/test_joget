@@ -6,7 +6,7 @@
             "menus": [{
                 "className": "org.joget.apps.userview.lib.HtmlPage",
                 "properties": {
-                    "id": "dcd2b9d8-1185-4412-b5cf-a8c0d6a691cf",
+                    "id": "fd16adf4-dc30-44c0-a324-baa010f0e61e",
                     "label": "Welcome",
                     "customId": "welcome",
                     "content": "<div class=\"ui-welcome\"><h1>Apps and Workflow Made Simple<\/h1><p>&nbsp;<\/p><div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left\"><img src=\"/jw/images/icon_idea.png\" alt=\"Build apps\" width=\"120\" height=\"85\"/><\/div><div class=\"message\"><h3>Build apps, not just processes!<\/h3><p>Create full-fledged apps with support for data records management.<\/p><\/div><p>&nbsp;<\/p><div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left\"><img src=\"/jw/images/icon_rocket.png\" alt=\"Increased efficiency\" width=\"120\" height=\"85\"/><\/div><div class=\"message\"><h3>Increased Efficiency and Productivity<\/h3><p>Faster and more consistent completion of manual processes, and with minimal errors.<\/p><\/div><p>&nbsp;<\/p><div class=\"icon\" style=\"margin-right: 20px; margin-bottom: 20px; float: left; clear: left\"><img src=\"/jw/images/icon_cost.png\" alt=\"Lowered cost\" width=\"120\" height=\"85\"/><\/div><div class=\"message\"><h3>Lowered Cost<\/h3><p>Employees can be guided through complex procedures, hence reducing the cost of training.<\/p><\/div><\/div>"
@@ -41,7 +41,7 @@
                     "add-customFooter": "",
                     "addFormId": "test",
                     "edit-allowRecordTraveling": "",
-                    "id": "6361b317-6779-489a-a73f-d546c1de5d56",
+                    "id": "82fd0568-33d2-48fb-9a3d-e115fe261caa",
                     "rowCount": "true",
                     "add-messageShowAfterComplete": "",
                     "edit-readonlyLabel": "",
@@ -69,7 +69,7 @@
                 }
             }],
             "properties": {
-                "id": "category-45a37f05-4551-4f83-b94e-e1288ad74853",
+                "id": "category-1a10e275-4af3-4d00-9280-4fe5ba6c235b",
                 "label": "<i class='fa fa-tasks'><\/i>Manage test"
             }
         }
