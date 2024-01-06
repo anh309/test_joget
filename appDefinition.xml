@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>joget_git_test</id>
+   <version></version>
+   <name>joget_git_test</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
