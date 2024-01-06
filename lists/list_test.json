@@ -6,14 +6,24 @@
     "useSession": "false",
     "showPageSizeSelector": "true",
     "rowActions": [],
-    "columns": [{
-        "filterable": true,
-        "hidden": "false",
-        "name": "field1",
-        "id": "column_0",
-        "label": "field1",
-        "sortable": "false"
-    }],
+    "columns": [
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "field2",
+            "id": "column_2",
+            "label": "field2",
+            "sortable": "false"
+        },
+        {
+            "filterable": true,
+            "hidden": "false",
+            "name": "field1",
+            "id": "column_0",
+            "label": "field1",
+            "sortable": "false"
+        }
+    ],
     "pageSize": 0,
     "orderBy": "",
     "filters": [],
