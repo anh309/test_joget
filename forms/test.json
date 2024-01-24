@@ -49,6 +49,32 @@
                         "readonlyLabel": "False",
                         "storeNumeric": "False"
                     }
+                },
+                {
+                    "className": "org.joget.apps.form.lib.TextField",
+                    "properties": {
+                        "requiredSanitize": "true",
+                        "encryption": "false",
+                        "readonly": "False",
+                        "style": "",
+                        "label": "Text Field",
+                        "id": "field5",
+                        "readonlyLabel": "False",
+                        "storeNumeric": "False"
+                    }
+                },
+                {
+                    "className": "org.joget.apps.form.lib.TextField",
+                    "properties": {
+                        "requiredSanitize": "true",
+                        "encryption": "false",
+                        "readonly": "False",
+                        "style": "",
+                        "label": "Text Field",
+                        "id": "field4",
+                        "readonlyLabel": "False",
+                        "storeNumeric": "False"
+                    }
                 }
             ],
             "className": "org.joget.apps.form.model.Column",
